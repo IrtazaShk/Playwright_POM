@@ -1,0 +1,15 @@
+{
+  "name": "playwright_qa",
+  "version": "1.0.0",
+  "description": "*This project automates end-to-end test scenarios for the application using Playwright and TypeScript. Key features include:*\r => Multi-browser support (Chromium, Firefox, WebKit).\r => Headless and headed execution modes.\r => Integration with CI/CD pipelines (e.g., jenkins, AWS or Azure Pipelines).\r => Automated workflows like form submissions, dropdown selections, and canvas validations.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.49.0",
+    "@types/node": "^22.10.1",
+    "playwright": "^1.49.0"
+  }
+}
