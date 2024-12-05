@@ -2,9 +2,6 @@
 
 *This project automates end-to-end test scenarios for the application using Playwright and TypeScript. Key features include:*
 => Multi-browser support (Chromium, Firefox, WebKit).
-=> Headless and headed execution modes.
-=> Integration with CI/CD pipelines (e.g., jenkins, AWS or Azure Pipelines).
-=> Automated workflows like form submissions, dropdown selections, and canvas validations.
 
 # Getting Started
 *Prerequisites*
