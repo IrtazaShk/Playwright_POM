@@ -13,7 +13,8 @@
 
 => Playwright Browsers: Install Playwright browsers:
              "npx playwright install"
-
+=> create Project:
+             "npm init playwright@latest"
 => Run all tests:
              "npx playwright test"
 
