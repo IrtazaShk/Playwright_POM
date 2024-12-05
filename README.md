@@ -1,4 +1,4 @@
-# Playwright Automation
+# Playwright Automation - Page Object Model
 
 *This project automates end-to-end test scenarios for the application using Playwright and TypeScript. Key features include:*
 => Multi-browser support (Chromium, Firefox, WebKit).
