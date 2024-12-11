@@ -11,4 +11,4 @@ test('sign in using correct credentials', async ({ page }) => {
   await loginpage.email.fill('email');
   await loginpage.password.fill('XXXXXXXXXX');
   await loginpage.signinBtn.click();
-});
+}); 
