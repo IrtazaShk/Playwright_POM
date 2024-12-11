@@ -15,4 +15,4 @@ export class LoginPage {
     this.signinBtn = page.getByRole('button', { name: 'Sign In' });
     this.forgetPassword = page.getByRole('link', { name: 'Forgot Your Password?' })
   }
-}
+} 
